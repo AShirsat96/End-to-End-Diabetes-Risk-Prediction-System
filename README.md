@@ -43,7 +43,8 @@ This project explores how distributed machine learning and cloud deployment tech
 
 # System Architecture
 
-![System Architecture](images/system_architecture.png)
+<img width="582" height="423" alt="SytemArchitecture" src="https://github.com/user-attachments/assets/79f18127-abf9-45c0-a8b5-6f1aee67df35" />
+
 
 The system consists of the following components:
 
@@ -110,7 +111,10 @@ Features include:
 - Personalized clinical recommendations
 - Cloud-hosted inference
 
-![Dashboard](images/dashboard.png)
+<img width="945" height="2048" alt="WhatsApp Image 2025-12-14 at 22 10 35_ce4de3df" src="https://github.com/user-attachments/assets/5c4bae03-2456-48a0-866a-15541ef97182" />
+
+<img width="945" height="2048" alt="WhatsApp Image 2025-12-14 at 22 10 35_409a2724" src="https://github.com/user-attachments/assets/7d8be462-c605-473d-8385-6d3c16b7f70a" />
+
 
 ---
 
@@ -120,7 +124,8 @@ Model performance was evaluated using multiple classification metrics to balance
 
 The project also explored threshold selection to better understand the trade-off between recall and precision when identifying high-risk patients.
 
-![Risk Threshold Analysis](images/risk_thresholds.png)
+<img width="598" height="372" alt="RecallVsPrecisionTradeoffandRiskLevelThreshold" src="https://github.com/user-attachments/assets/3df71457-9fa5-4fdb-82ea-595c3633314f" />
+
 
 ---
 
